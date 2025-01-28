@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, whydenyscry is here.
+
 
 <div align="center">
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=whydenyscry&show_icons=true&theme=transparent"/>
