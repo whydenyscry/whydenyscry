@@ -1,4 +1,4 @@
-# hi, whydenyscry is here.
+# hi, whydenyscry here.
 
 i don't really do chaotic dynamics, but you can trace my passion for the beautiful, so here’s my collection of chaotic and hyperchaotic attractors across three repositories:
 - [Dynamics of Chaotic 3D Attractors: Part 1](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-1)
